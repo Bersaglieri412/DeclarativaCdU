@@ -20,7 +20,7 @@ import javax.swing.JButton;
 import javax.swing.LayoutStyle.ComponentPlacement;
 
 public class TorresHanoiManual extends JFrame {
-	private String rutaManual = "C:\\Users\\mohae\\Desktop\\2º Semestre\\Programación declarativa\\Trabajo teórico\\Programa\\torreshanoimanual.pl";
+	private String rutaManual = "C:\\Users\\mohae\\eclipse-workspace\\ProgramacionDeclarativa\\TorresHanoi\\TorresHanoi\\torreshanoimanual.pl";
 	private JList<String> lista1;
 	private JList<String> lista2;
 	private JList<String> lista3;
