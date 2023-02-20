@@ -20,8 +20,8 @@ import javax.swing.JButton;
 import javax.swing.LayoutStyle.ComponentPlacement;
 
 public class TorresHanoiAutomatico extends JFrame {
-	private String rutaManual = "C:\\Users\\mohae\\eclipse-workspace\\ProgramacionDeclarativa\\TorresHanoi\\TorresHanoi\\torreshanoimanual.pl";
-	private String rutaAutomatica = "C:\\Users\\mohae\\eclipse-workspace\\ProgramacionDeclarativa\\TorresHanoi\\TorresHanoi\\torreshanoiautomatico.pl";
+	private String rutaAutomatica = "C:\\Users\\diego\\eclipse-workspace\\TorresGit1\\src\\TorresHanoi\\torreshanoiautomatico.pl";
+	private String rutaManual = "C:\\Users\\diego\\eclipse-workspace\\TorresGit1\\src\\TorresHanoi\\torreshanoimanual.pl";
 	private JList<String> lista1;
 	private JList<String> lista2;
 	private JList<String> lista3;
